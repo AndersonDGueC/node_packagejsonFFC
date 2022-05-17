@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andersond GC",
 	"description": "first program nodeJS and managing package with NPM",
+	"keywords": [ "frecodecamp", "package", "json", "node" ],
 	"dependencies": {
 		"express": "^4.18.1"
 	},
