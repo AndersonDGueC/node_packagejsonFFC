@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Andersond GC",
+	"description": "first program nodeJS and managing package with NPM"
 	"dependencies": {
 		"express": "^4.18.1"
 	},
