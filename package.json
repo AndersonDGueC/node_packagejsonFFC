@@ -3,6 +3,7 @@
 	"author": "Andersond GC",
 	"description": "first program nodeJS and managing package with NPM",
 	"keywords": [ "freecodecamp", "package", "json", "node" ],
+	"license": "GNU/linux",
 	"dependencies": {
 		"express": "^4.18.1"
 	},
